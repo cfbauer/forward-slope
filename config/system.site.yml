@@ -1,0 +1,14 @@
+uuid: b9ac86a6-7ca5-4520-a14a-8d88ad9fdc63
+name: forward-slope
+mail: chris@chrisbauer.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
